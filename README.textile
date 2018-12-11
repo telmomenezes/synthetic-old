@@ -10,7 +10,7 @@ For a more complete explanation see "this article":http://www.nature.com/srep/20
 
 h2. Installation and usage
 
-"Check the wiki":https://github.com/telmomenezes/synthetic/wiki
+"Check the wiki":https://github.com/telmomenezes/synthetic-old/wiki
 
 h2. Related publications
 
