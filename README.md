@@ -1,7 +1,7 @@
 # Synthetic
 **Symbolic Generators for Complex Networks**
 
-_**NOTE:** There is an ongoing effort to port Synthetic to Python. This Python version is not yet functional, and it can be found here: https://github.com/telmomenezes/synthetic-python/ ._
+_**NOTE:** There is an ongoing effort to port Synthetic to Python. The Python version (which is not yet functional) can be found here: https://github.com/telmomenezes/synthetic-python/ ._
 
 ## What is it?
 
